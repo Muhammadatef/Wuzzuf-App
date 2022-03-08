@@ -23,9 +23,9 @@ https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 
 
 Team Members : 
-1- Mohamed Atef Fahmy 
-2- Ramez Essam
-2- Omar Hamed Marie
+1- Ramez Essam
+2- Mohamed Atef Fahmy
+3- Omar Hamed Marie
 4- Mahmoud Shaaban
 
 Supervisor: Dr.Amr Elshafie
